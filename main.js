@@ -5,22 +5,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const heroData = {
         '1': {
-            headline: "Belum kerja seharian… mata udah capek duluan.",
-            subheadline: "Bantu jaga kenyamanan mata di tengah aktivitas digital sehari-hari.",
-            cta: "Pelajari Hikari",
-            image: "image/angle_1_LP.png"
+            headline: "Jujur, aku gak gampang percaya produk kesehatan.",
+            subheadline: "Sampai akhirnya badan sendiri yang bikin sadar. Jaga kesehatan organ sebelum terlambat.",
+            cta: "Pelajari Subarashi",
+            image: "image/angle_1.png"
         },
         '2': {
-            headline: "Sering merasa mata cepat lelah saat menatap layar?",
-            subheadline: "Support mata kamu agar tetap fokus dan nyaman meski aktivitas digital sedang padat.",
-            cta: "Pelajari Hikari",
-            image: "image/angle_2_LP.png"
+            headline: "Badan belum sakit… tapi udah gak enak.",
+            subheadline: "Jangan tunggu parah, mulai jaga kesehatan sel dan organ tubuh dari sekarang.",
+            cta: "Pelajari Subarashi",
+            image: "image/angle_2.png"
         },
         '3': {
-            headline: "Layar cerah setiap hari, tapi mata butuh istirahat.",
-            subheadline: "Jaga performa mata kamu dengan nutrisi terbaik dari standar kesehatan Jepang.",
-            cta: "Pelajari Hikari",
-            image: "image/angle_3_LP.png"
+            headline: "Yang bahaya itu bukan sakit… tapi nundanya.",
+            subheadline: "Tubuh biasanya kasih tanda dulu sebelum drop. Mulai jaga dari sekarang sebelum terlambat.",
+            cta: "Pelajari Subarashi",
+            image: "image/angle_3.png"
         }
     };
 
