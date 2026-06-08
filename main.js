@@ -6,19 +6,19 @@ document.addEventListener('DOMContentLoaded', () => {
     const heroData = {
         '1': {
             headline: "Jujur, aku gak gampang percaya produk kesehatan.",
-            subheadline: "Sampai akhirnya badan sendiri yang bikin sadar. Jaga kesehatan organ sebelum terlambat.",
+            subheadline: "Sampai akhirnya badan sendiri yang bikin sadar kalau kesehatan gak bisa ditunda terus.",
             cta: "Pelajari Subarashi",
             image: "image/angle_1.png"
         },
         '2': {
-            headline: "Badan belum sakit… tapi udah gak enak.",
-            subheadline: "Jangan tunggu parah, mulai jaga kesehatan sel dan organ tubuh dari sekarang.",
+            headline: "Jujur, aku kira badan capek itu hal biasa.",
+            subheadline: "Sampai akhirnya aku sadar, tubuh gak sekuat dulu dan butuh dijaga lebih serius.",
             cta: "Pelajari Subarashi",
             image: "image/angle_2.png"
         },
         '3': {
-            headline: "Yang bahaya itu bukan sakit… tapi nundanya.",
-            subheadline: "Tubuh biasanya kasih tanda dulu sebelum drop. Mulai jaga dari sekarang sebelum terlambat.",
+            headline: "Jujur, aku pikir selama belum sakit berarti masih aman.",
+            subheadline: "Sampai akhirnya tubuh mulai kasih tanda-tanda yang dulu gak pernah aku rasain.",
             cta: "Pelajari Subarashi",
             image: "image/angle_3.png"
         }
