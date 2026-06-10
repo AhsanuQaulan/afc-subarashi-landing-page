@@ -67,7 +67,10 @@ p {
 }
 
 .text-center { text-align: center; }
+/* Sections */
 .section-padding { padding: 50px 0; }
+.transition-section { padding-bottom: 20px; }
+.product-intro { padding-top: 20px; }
 .bg-soft { background: var(--bg-light); }
 .bg-warm { background: var(--bg-warm); }
 .bg-navy-light { background: var(--bg-navy-light); }
@@ -391,7 +394,7 @@ p {
     
     .hero-img { height: 600px; border-radius: 0 0 40px 40px; }
     
-    .landscape-grid { grid-template-columns: repeat(3, 1fr); }
+    .lifestyle-grid { grid-template-columns: repeat(3, 1fr); }
     .benefit-cards { grid-template-columns: repeat(3, 1fr); }
     
     .two-col {
